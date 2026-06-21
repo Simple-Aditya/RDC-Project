@@ -1,0 +1,22 @@
+websites = [
+"https://yellow.co.nz",
+"https://yellowoctopus.com.au",
+"https://yepme.com",
+"https://yorkdale.com",
+"https://yourprint.in",
+"https://zaasmart.com",
+"https://zalora.sg",
+"https://zamnesia.com",
+"https://zanerobe.com",
+"https://zanui.com.au",
+"https://zealpc.net",
+"https://zerokaata.com",
+"https://zimmermannwear.com",
+"https://zingpopculture.com.au",
+"https://zinnga.com",
+"https://zipker.com",
+"https://zivame.com",
+"https://zoo-bags-com.myshopify.com",
+"https://zookr.in",
+"https://zumbashop.com.au"
+]

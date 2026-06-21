@@ -1,0 +1,13 @@
+Old Model Outcomes,,,,,,New Training Data Distribution,,,,Old Training Data Distribution,,
+Classifier,Accuracy,Precision,Recall,F1 Score,,Confirm Shaming,50,1.03%,,Confirm Shaming,50,1.30%
+Random Forest,0.85,0.83,0.59,0.63,,Disguised Ads,47,0.97%,,Disguised Ads,47,1.23%
+Logistic Regression,0.89,0.85,0.79,0.81,,Drip Pricing,78,1.61%,,Drip Pricing,78,2.03%
+Support Vector Machine,0.88,0.81,0.8,0.81,,Forced Action,50,1.03%,,Forced Action,50,1.30%
+,,,,,,Interface Interference,29,0.60%,,Interface Interference,29,0.76%
+New Model Outcomes,,,,,,Misdirection,701,14.50%,,Misdirection,701,18.28%
+Model,Accuracy,Precision,Recall,F1,,Not Dark Pattern,2178,45.05%,,Not Dark Pattern,1178,30.72%
+Forest,0.73,0.76,0.73,0.7,,Scarcity,648,13.40%,,Scarcity,648,16.90%
+LREG,0.83,0.83,0.83,0.83,,Social Proof,481,9.95%,,Social Proof,481,12.54%
+SVM,0.85,0.85,0.85,0.85,,Subscription Trap,104,2.15%,,Subscription Trap,104,2.71%
+,,,,,,Urgency,469,9.70%,,Urgency,469,12.23%
+,,,,,,Grand Total,4835,,,Grand Total,3835,
